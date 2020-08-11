@@ -1,0 +1,17 @@
+.gallery{
+    display: grid;
+    grid-template-columns: repeat(3,1fr);
+    grid-template-rows: repeat(2,5vw);
+}
+
+*{
+    background-color: #808080;
+}
+
+h1{
+    text-align: center;
+}
+
+p{
+    text-align: center;
+}
